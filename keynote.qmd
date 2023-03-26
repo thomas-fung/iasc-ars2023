@@ -1,0 +1,15 @@
+---
+title: "Keynote Speakers"
+---
+
+# Professor Wing Kam FUNG, HKU
+
+![](wingfung4.jpg){width="50%"}
+
+::: {.callout-note collapse="true" appearance="default" icon="true"}
+## Bio of Professor Wing Kam FUNG
+
+Professor Wing Kam FUNG is Chair Professor of Statistics and Actuarial Science, The University of Hong Kong. Professor Fung is renowned for his research in statistical DNA forensics. He has contributed signiﬁcantly in the interpretation of DNA mixtures, paternity testing and computer software development. He also has wide research interests and contributions in inﬂuence analysis, longitudinal data analysis and statistical genetics. He received the Distinguished Young Scientist Award (National Science Foundation of China) in 2004 and was elected a Fellow of the American Statistical Association in 2003. (2008/2009)
+:::
+
+More keynote speakers will be confirmed in the coming months. Stay tune!

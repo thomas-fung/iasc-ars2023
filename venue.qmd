@@ -1,0 +1,49 @@
+---
+title: "Venue"
+---
+
+# Wallumattagal Campus of Macquarie University
+
+Located 15 kilometres from Sydney's CBD, our Wallumattagal Campus in Macquarie Park is the perfect location for hosting IASC-ARS 2023!
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.4780936704356!2d151.11060221657777!3d-33.77415008068269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12a672905e4a73%3A0xbab0dfcf81605278!2sMacquarie%20University%20Faculty%20of%20Science%20and%20Engineering!5e0!3m2!1sen!2sau!4v1679824247170!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+Like a miniature city, Macquarie has a vast array of amenities on campus including several [cafés and restaurants](https://students.mq.edu.au/uni-life/campus/cafes-bars-restaurants). And, the University is within walking distance of a major shopping precinct.
+
+The Organising Committee is currently negotiating cost-effective accommodation rates for you. Please return to this page in a few weeks to see your options.
+
+# Getting to Macquarie
+
+### Macquarie is accessible by a range of public transport options.
+
+#### Train
+
+We are fortunate to have our own Macquarie University metro station right at our doorstep, on the corner of Herring Road and University Avenue.
+
+#### Bus
+
+Macquarie is well serviced by buses, connecting our campus to the rest of Sydney. Stops are located within the grounds along University Avenue, with more services stopping along the borders of the campus, especially at the Macquarie Centre bus interchange.
+
+#### Timetables
+
+Plan trips in real time using the [Transport for NSW online trip planner](https://transportnsw.info/), or download any of these [trip-planning apps](https://transportnsw.info/apps).
+
+#### Payment
+
+You can pay for public transport through the Opal card system or by tapping your own credit or debit card (American Express, Mastercard or Visa).
+
+-   [Information about Opal cards](https://transportnsw.info/tickets-opal/opal#/login)
+
+-   [How to use contactless card payments](https://transportnsw.info/tickets-opal/opal/contactless-payments)
+
+# Welcome to Sydney, NSW
+
+Sydney, Australia is a truly beautiful city that boasts stunning natural landscapes, iconic landmarks, and a vibrant cultural scene. The city is surrounded by shimmering harbors and crystal-clear beaches, including the world-famous Bondi Beach, where locals and tourists alike flock to soak up the sun and surf. Sydney is also home to some of the most recognizable landmarks in the world, including the Sydney Opera House and the Harbour Bridge. These structures are not only breathtaking to behold, but they also hold significant cultural and historical importance for the city and its people. Beyond its natural beauty and iconic landmarks, Sydney is a melting pot of cultures and boasts a thriving arts and entertainment scene. From world-class museums and galleries to vibrant street art and music festivals, there is always something new and exciting to discover in this vibrant and dynamic city.
+
+|                                                 |                                                      |
+|-------------------------------------------------|------------------------------------------------------|
+| ![](Sydney_Opera_House_Sails.jpg){width="100%"} | ![](SydneyHarbourBridge1_gobeirne.jpg){width="100%"} |
+| ![](Bondi_Beach.jpg){width="100%"}              | ![](koala_encounter.jpg){width="100%"}               |
+| ![](bridge_climb.jpeg){width="100%"}            | ![](lns-aqua-dining-1.jpg){width="100%"}             |

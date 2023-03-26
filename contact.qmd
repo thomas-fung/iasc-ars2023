@@ -1,0 +1,16 @@
+---
+title: "Organisers & Contact"
+---
+
+For enquiries, please email [`r icons::fontawesome("paper-plane")` iascars2023@gmail.com](mailto:iascars2023@gmail.com)
+
+IASC-ARS 2023 Organising Committee
+
+- Thomas Fung (Macquarie University, Australia)
+- Benoit Liquet (Macquarie University, Australia)
+- Joanna Wang (University of Technology, Sydney, Australia)
+- Ray-Bing Chen ((national Cheng Kung University, Taiwan))
+- Philip Yu (The Education University of Hong Kong, Hong Kong)
+- Ying Chen (National University of Singapore, Singapore)
+- Yuichi Mori (Okayama University of Science, Japan)
+- Donguk Kim (Sungkyunkwan University, Korea)
