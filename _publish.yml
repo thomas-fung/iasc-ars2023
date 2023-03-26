@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 51b0264f-3a75-46ca-b86e-1f1d63a1990f
+      url: 'https://bejewelled-sprinkles-f1f6d1.netlify.app'
