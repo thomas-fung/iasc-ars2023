@@ -9,8 +9,16 @@ website:
       - href: index.qmd
         text: Home
       - keynote.qmd
-      - program.qmd
+      - text: "Program"
+        menu: 
+          - program.qmd
+          - social.qmd
       - venue.qmd
+      - abstract.qmd
+      - text: "Registration"
+        menu:
+          - registration.qmd
+          - accomodation.qmd
       - conduct.qmd
       - contact.qmd
 

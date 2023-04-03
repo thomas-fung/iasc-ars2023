@@ -2,9 +2,11 @@
 title: "Organisers & Contact"
 ---
 
+# Contact `r icons::fontawesome('address-book')`
+
 For enquiries, please email [`r icons::fontawesome("paper-plane")` iascars2023@gmail.com](mailto:iascars2023@gmail.com)
 
-IASC-ARS 2023 Organising Committee
+# IASC-ARS 2023 Organising Committee
 
 - Thomas Fung (Macquarie University, Australia)
 - Benoit Liquet (Macquarie University, Australia)

@@ -2,30 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://iascars2023.netlify.app/contact.html</loc>
-    <lastmod>2023-03-26T11:32:07.653Z</lastmod>
+    <lastmod>2023-04-02T16:27:33.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iascars2023.netlify.app/accomodation.html</loc>
+    <lastmod>2023-04-02T16:27:33.931Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/venue.html</loc>
-    <lastmod>2023-03-26T11:32:08.011Z</lastmod>
+    <lastmod>2023-04-02T16:27:34.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iascars2023.netlify.app/abstract.html</loc>
+    <lastmod>2023-04-02T16:27:35.189Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/index.html</loc>
-    <lastmod>2023-03-26T11:32:08.883Z</lastmod>
+    <lastmod>2023-04-02T16:27:36.113Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/about.html</loc>
-    <lastmod>2023-03-26T11:32:09.796Z</lastmod>
+    <lastmod>2023-04-02T16:27:37.668Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/program.html</loc>
-    <lastmod>2023-03-26T11:32:10.099Z</lastmod>
+    <lastmod>2023-04-02T16:27:38.629Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/keynote.html</loc>
-    <lastmod>2023-03-26T11:32:10.417Z</lastmod>
+    <lastmod>2023-04-02T16:27:39.036Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iascars2023.netlify.app/social.html</loc>
+    <lastmod>2023-04-02T16:27:39.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iascars2023.netlify.app/registration.html</loc>
+    <lastmod>2023-04-02T16:27:39.843Z</lastmod>
   </url>
   <url>
     <loc>https://iascars2023.netlify.app/conduct.html</loc>
-    <lastmod>2023-03-26T11:32:10.746Z</lastmod>
+    <lastmod>2023-04-02T16:27:40.179Z</lastmod>
   </url>
 </urlset>

@@ -2,9 +2,19 @@
 title: "Keynote Speakers"
 ---
 
-# Professor Wing Kam FUNG, HKU
+# Professor Thomas Lumley, University of Auckland
 
-![](wingfung4.jpg){width="50%"}
+![](lumley.jpg){width="30%"}
+
+::: {.callout-note collapse="true" appearance="default" icon="true"}
+## Bio of Professor Thomas Lumley
+
+Thomas Lumley holds the Chair in Biostatistics in the Department of Statistics at the University of Auckland. His research areas include complex sampling, statistical computing, and cardiovascular epidemiology. Thomas is a member of the R Core Development Team, and is a Fellow of the Royal Society of New Zealand and of the American Statistical Association. He maintains several popular `R` packages, including `survey` and `leaps`.
+:::
+
+# Professor Wing Kam FUNG, University of Hong Kong
+
+![](wingfung4.jpg){width="30%"}
 
 ::: {.callout-note collapse="true" appearance="default" icon="true"}
 ## Bio of Professor Wing Kam FUNG

@@ -23,7 +23,7 @@ Information on Keynote Speakers and the Conference program will be available at 
 
 The conference will be held at the Wallumattagal Campus of Macquarie University and is only about 40 mins from Sydney CBD via public transport.
 
-We look forward to seeing you at Macquarie in Dec 2023!
+We look forward to seeing you at Macquarie in December 2023!
 
 # Important Dates `r icons::fontawesome("calendar")`
 

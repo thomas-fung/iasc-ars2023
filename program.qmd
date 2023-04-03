@@ -1,5 +1,7 @@
 ---
-title: "Program"
+title: "Scientific Program"
 ---
+
+# Conference Program `r icons::fontawesome('book-open')`
 
 To be released at a later date. 
