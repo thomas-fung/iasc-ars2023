@@ -2,7 +2,7 @@
 title: "Venue"
 ---
 
-# Wallumattagal Campus of Macquarie University `r icons::fontawesome('map')`
+# Wallumattagal Campus of Macquarie University 📍 
 
 Located 15 kilometres from Sydney's CBD, our Wallumattagal Campus in Macquarie Park is the perfect location for hosting IASC-ARS 2023!
 
@@ -14,7 +14,7 @@ Like a miniature city, Macquarie has a vast array of amenities on campus includi
 
 The Organising Committee is currently negotiating cost-effective accommodation rates for you. Please return to this page in a few weeks to see your options.
 
-# Getting to Macquarie `r icons::fontawesome('train')`
+# Getting to Macquarie 🚇
 
 ### Macquarie is accessible by a range of public transport options.
 
@@ -38,7 +38,7 @@ You can pay for public transport through the Opal card system or by tapping your
 
 -   [How to use contactless card payments](https://transportnsw.info/tickets-opal/opal/contactless-payments)
 
-# Welcome to Sydney, NSW `r icons::fontawesome('camera')`
+# Welcome to Sydney, NSW 📸
 
 Sydney, Australia is a truly beautiful city that boasts stunning natural landscapes, iconic landmarks, and a vibrant cultural scene. The city is surrounded by shimmering harbors and crystal-clear beaches, including the world-famous Bondi Beach, where locals and tourists alike flock to soak up the sun and surf. Sydney is also home to some of the most recognizable landmarks in the world, including the Sydney Opera House and the Harbour Bridge. These structures are not only breathtaking to behold, but they also hold significant cultural and historical importance for the city and its people. Beyond its natural beauty and iconic landmarks, Sydney is a melting pot of cultures and boasts a thriving arts and entertainment scene. From world-class museums and galleries to vibrant street art and music festivals, there is always something new and exciting to discover in this vibrant and dynamic city.
 

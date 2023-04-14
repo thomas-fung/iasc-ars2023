@@ -2,11 +2,82 @@
 title: "IASC-ARS 2023"
 ---
 
-```{r}
-#| fig-align: center
-#| echo: false
-#| out-width: 100%
-knitr::include_graphics("Locations-landing-campus_aerial-view.jpg")
+```{=html}
+<style>
+  .photo-scroll {
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .photo-scroll img {
+    width: 100%;
+    scroll-snap-align: start;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+  .scroll-button {
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .scroll-button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+
+  .scroll-button-left {
+    left: 10px;
+  }
+
+  .scroll-button-right {
+    right: 10px;
+  }
+</style>
+```
+
+::: photo-scroll
+<img src="Locations-landing-campus_aerial-view.jpg"/> 
+<img src="Mquarie.JPG"/> 
+<img src="1cc-courtyard-view-900x600.jpg"/>
+<img src="28322105350_2df14517d9_o.jpg"/>
+:::
+
+<div class="scroll-button scroll-button-left" onclick="scrollLeft()">&lt;</div>
+<div class="scroll-button scroll-button-right" onclick="scrollRight()">&gt;</div>
+
+
+```{=html}
+
+
+<script>
+  const photoScroll = document.querySelector(".photo-scroll");
+
+  function scrollLeft() {
+    photoScroll.scrollBy({
+      left: -photoScroll.clientWidth,
+      behavior: "smooth"
+    });
+  }
+
+  function scrollRight() {
+    photoScroll.scrollBy({
+      left: photoScroll.clientWidth,
+      behavior: "smooth"
+    });
+  }
+</script>
 ```
 
 # The 12<sup>th</sup> conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS)
@@ -25,23 +96,28 @@ The conference will be held at the Wallumattagal Campus of Macquarie University 
 
 We look forward to seeing you at Macquarie in December 2023!
 
-# Important Dates `r icons::fontawesome("calendar")`
+# Updates 🚨
 
-|          |                                                         |
-|----------|---------------------------------------------------------|
-| 15 April | Call for invited session proposal                       |
-| 1 June   | Call for Contributed talks/poster                       |
-| 1 June   | Open for registration                                   |
-| 30 June  | **Deadline for submission on invited session proposal**     |
-| 15 July  | Notification of acceptance of invited session proposal  |
-| 31 August   | **Deadline for abstract submissions**                       |
-| 30 September   | Notification of acceptance of contributed talks/posters |
-| 15 October   | **Deadline for early bird registration**                    |
+|               |                                                         |
+|---------------|---------------------------------------------------------|
+| 15 April      | [We now accept proposal for invited sessions!](abstract.qmd# 📣 Call for Invited Session Proposal)            |
+
+# Important Dates 🗓️
+
+|               |                                                         |
+|---------------|---------------------------------------------------------|
+| 15 April      | Call for invited session proposal                       |
+| 1 June        | Call for Contributed talks/poster                       |
+| 1 June        | Open for registration                                   |
+| 30 June       | **Deadline for submission on invited session proposal** |
+| 15 July       | Notification of acceptance of invited session proposal  |
+| 31 August     | **Deadline for abstract submissions**                   |
+| 30 September  | Notification of acceptance of contributed talks/posters |
+| 15 October    | **Deadline for early bird registration**                |
+| 5 December    | Workshop                                                |
 | 6--8 December | Conference                                              |
 
 # Our Sponsors
-
-
 
 # Acknowledgement of Country
 

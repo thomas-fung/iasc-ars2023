@@ -2,7 +2,7 @@
 title: "Keynote Speakers"
 ---
 
-# Professor Thomas Lumley, University of Auckland
+# Professor Thomas LUMLEY, University of Auckland
 
 ![](lumley.jpg){width="30%"}
 

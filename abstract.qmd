@@ -2,4 +2,35 @@
 title: "Abstract Submission"
 ---
 
-We will make an announcment on invited sessions soon! 
+# 📣 Call for Invited Session Proposal 
+
+The Organising Committee is pleased to invite organisers to submit proposal for invited sessions for IASC-ARS 2023, 6--8 December 2023 at Macquarie University, Sydney Australia.
+
+An invited session consists of 100 minutes of oral presentations by 3--4 speakers, preferably with 4 and with or without discussants. Each organiser can organise up to two sessions. The official language for all submissions is English.
+
+If you are interested in organising an invited session, please submit a one-page proposal including:
+
+-   Session title
+-   Session organiser and affiliation
+-   Session description
+-   List of speakers (and discussant(s)) and their affiliations
+-   Tentative title for each presentation
+
+Submissions can be made by e-mail to [📧   iascars2023@gmail.com](mailto:iascars2023@gmail.com). **The submission deadline is 30 June 2023.**
+
+The organizers will be notified of the review committee\'s decision by 15 July 2023. 
+
+Here is a flyer that you can use to share the news with your colleagues!
+
+<button class="download-button"><a href="invited_proposals/invited_session_proposal.pdf" download>Download Flyer</a></button>
+
+# Abstract Submission
+
+Link will be made available shortly!
+
+
+# IASC-ARS 2023 Outstanding Young Researcher/Student Award
+
+To encourage the involvement of young researchers & students, the Local Organizing Committee of the IASC-ARS 2023 will offer awards for early career young researchers or students (the definition of a young researcher will be updated later) that gave an outstanding contributed (oral or poster) presentation.
+
+The winners will be chosen by the Award Committee and announced at the closing ceremony of the conference.

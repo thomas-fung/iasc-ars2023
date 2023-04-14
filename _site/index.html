@@ -157,7 +157,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#the-12th-conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars" id="toc-the-12th-conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars" class="nav-link active" data-scroll-target="#the-12th-conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars">The 12<sup>th</sup> conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS)</a></li>
-  <li><a href="#important-dates" id="toc-important-dates" class="nav-link" data-scroll-target="#important-dates">Important Dates <svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg"> <path d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z"></path></svg></a></li>
+  <li><a href="#updates" id="toc-updates" class="nav-link" data-scroll-target="#updates">Updates 🚨</a></li>
+  <li><a href="#important-dates" id="toc-important-dates" class="nav-link" data-scroll-target="#important-dates">Important Dates 🗓️</a></li>
   <li><a href="#our-sponsors" id="toc-our-sponsors" class="nav-link" data-scroll-target="#our-sponsors">Our Sponsors</a></li>
   <li><a href="#acknowledgement-of-country" id="toc-acknowledgement-of-country" class="nav-link" data-scroll-target="#acknowledgement-of-country">Acknowledgement of Country</a></li>
   </ul>
@@ -183,15 +184,76 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Locations-landing-campus_aerial-view.jpg" class="img-fluid figure-img" style="width:100.0%"></p>
-</figure>
+<style>
+  .photo-scroll {
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .photo-scroll img {
+    width: 100%;
+    scroll-snap-align: start;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+  .scroll-button {
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .scroll-button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+
+  .scroll-button-left {
+    left: 10px;
+  }
+
+  .scroll-button-right {
+    right: 10px;
+  }
+</style>
+<div class="photo-scroll">
+<p><img src="Locations-landing-campus_aerial-view.jpg"> <img src="Mquarie.JPG"> <img src="1cc-courtyard-view-900x600.jpg"> <img src="28322105350_2df14517d9_o.jpg"></p>
 </div>
+<div class="scroll-button scroll-button-left" onclick="scrollLeft()">
+&lt;
 </div>
+<div class="scroll-button scroll-button-right" onclick="scrollRight()">
+&gt;
 </div>
+
+
+<script>
+  const photoScroll = document.querySelector(".photo-scroll");
+
+  function scrollLeft() {
+    photoScroll.scrollBy({
+      left: -photoScroll.clientWidth,
+      behavior: "smooth"
+    });
+  }
+
+  function scrollRight() {
+    photoScroll.scrollBy({
+      left: photoScroll.clientWidth,
+      behavior: "smooth"
+    });
+  }
+</script>
 <section id="the-12th-conference-of-the-asian-regional-section-of-the-international-association-for-statistical-computing-iasc-ars" class="level1">
 <h1>The 12<sup>th</sup> conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS)</h1>
 <p><strong><em>Statistical Computing and methods for Complex Data</em></strong></p>
@@ -202,12 +264,23 @@ ul.task-list li input[type="checkbox"] {
 <p>The conference will be held at the Wallumattagal Campus of Macquarie University and is only about 40 mins from Sydney CBD via public transport.</p>
 <p>We look forward to seeing you at Macquarie in December 2023!</p>
 </section>
+<section id="updates" class="level1">
+<h1>Updates 🚨</h1>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td>15 April</td>
+<td><a href="./abstract.html# 📣 Call for Invited Session Proposal">We now accept proposal for invited sessions!</a></td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="important-dates" class="level1">
-<h1>Important Dates <svg viewbox="0 0 448 512" style="height:1em;position:relative;display:inline-block;top:.1em;" xmlns="http://www.w3.org/2000/svg"> <path d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z"></path></svg></h1>
+<h1>Important Dates 🗓️</h1>
 <table class="table">
 <colgroup>
-<col style="width: 14%">
-<col style="width: 85%">
+<col style="width: 20%">
+<col style="width: 79%">
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -243,6 +316,10 @@ ul.task-list li input[type="checkbox"] {
 <td><strong>Deadline for early bird registration</strong></td>
 </tr>
 <tr class="odd">
+<td>5 December</td>
+<td>Workshop</td>
+</tr>
+<tr class="even">
 <td>6–8 December</td>
 <td>Conference</td>
 </tr>
